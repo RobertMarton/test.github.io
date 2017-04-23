@@ -70,5 +70,5 @@ theme: landscape
 deploy:
   #type:
   type: git
-  repo: https://github.com/RobertMarton/RobertMarton.github.io.git
+  repo: git@github.com:RobertMarton/RobertMarton.github.io.git
   branch: master
